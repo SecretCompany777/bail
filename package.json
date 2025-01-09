@@ -1,5 +1,5 @@
 {
-  "name": "@nstar/baileys",
+  "name": "@secretcompany777/bail",
   "version": "6.8.0",
   "description": "WhatsApp API",
   "keywords": [
@@ -12,12 +12,12 @@
     "automation",
     "multi-device"
   ],
-  "homepage": "https://github.com/nstar-y/Bail",
+  "homepage": "https://github.com/SecretCompany777/bail",
   "repository": {
-    "url": "git+ssh://git@github.com/nstar-y/Bail.git"
+    "url": "git+ssh://git@github.com/SecretCompany777/bail"
   },
   "license": "MIT",
-  "author": "Adhiraj Singh",
+  "author": "Jay",
   "main": "lib/index.js",
   "types": "lib/index.d.ts",
   "files": [
