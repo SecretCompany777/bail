@@ -1,4 +1,4 @@
-# Baileys - Typescript/Javascript WhatsApp Web API
+# Welcome to Secret Company
 
 ### Important Note
 
